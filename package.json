@@ -1,0 +1,24 @@
+{
+  "name": "routes-router-mount",
+  "version": "0.0.0",
+  "description": "Call routes-router.prefix and remove the prefix from the req.url",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binocarlos/routes-router-mount.git"
+  },
+  "keywords": [
+    "routes",
+    "router",
+    "mount"
+  ],
+  "author": "Kai Davenport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binocarlos/routes-router-mount/issues"
+  },
+  "homepage": "https://github.com/binocarlos/routes-router-mount"
+}
