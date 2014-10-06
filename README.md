@@ -1,6 +1,8 @@
 routes-router-mount
 ===================
 
+[![Travis](http://img.shields.io/travis/binocarlos/routes-router-mount.svg?style=flat)](https://travis-ci.org/binocarlos/routes-router-mount)
+
 Call `prefix` on a [routes-router](https://github.com/Raynos/routes-router) and remove the prefix from the req.url
 
 ## install
