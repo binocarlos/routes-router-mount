@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/binocarlos/routes-router-mount/issues"
   },
-  "homepage": "https://github.com/binocarlos/routes-router-mount"
+  "homepage": "https://github.com/binocarlos/routes-router-mount",
+  "devDependencies": {
+    "concat-stream": "^1.4.6",
+    "hyperquest": "^0.3.0",
+    "routes-router": "^4.1.1",
+    "tape": "^3.0.0"
+  }
 }
