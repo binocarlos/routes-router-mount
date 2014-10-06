@@ -1,6 +1,6 @@
 {
   "name": "routes-router-mount",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Call routes-router.prefix and remove the prefix from the req.url",
   "main": "index.js",
   "scripts": {
